@@ -1,0 +1,5 @@
+package com.octogone.sms.entity;
+
+public class Student {
+
+}

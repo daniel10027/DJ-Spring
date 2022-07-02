@@ -1,0 +1,10 @@
+package com.octogone.sms.entity;
+
+public class Student {
+	
+	private Long id;
+	private String firstName;
+	private String lastname;
+	private String email;
+
+}

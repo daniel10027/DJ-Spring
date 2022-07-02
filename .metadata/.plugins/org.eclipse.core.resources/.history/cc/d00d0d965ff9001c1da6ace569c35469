@@ -1,0 +1,5 @@
+package com.octogone.sms.service;
+
+public interface StudentService {
+
+}

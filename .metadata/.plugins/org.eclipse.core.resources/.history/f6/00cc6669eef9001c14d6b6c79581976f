@@ -1,0 +1,8 @@
+package com.octogone.sms.service;
+import java.util.List,
+
+import com.octogone.sms.entity.Student;
+
+public interface StudentService {
+	List<Student> getAllStudents();
+}

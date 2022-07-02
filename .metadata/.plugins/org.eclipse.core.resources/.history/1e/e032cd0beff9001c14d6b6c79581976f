@@ -1,0 +1,6 @@
+package com.octogone.sms.service.impl;
+import com.octogone.sms.service.StudentService;
+
+public class StudentServiceImpl implements StudentService {
+
+}

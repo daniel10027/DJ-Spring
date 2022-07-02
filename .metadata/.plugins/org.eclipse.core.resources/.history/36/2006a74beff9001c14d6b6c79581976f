@@ -1,0 +1,11 @@
+package com.octogone.sms.service.impl;
+
+import java.util.List;
+
+import com.octogone.sms.entity.Student;
+
+import com.octogone.sms.service.StudentService;
+
+public class StudentServiceImpl implements StudentService {
+
+}
