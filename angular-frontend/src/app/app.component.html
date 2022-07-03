@@ -1,17 +1,22 @@
-<nav class="nav nabar-expand-sm bg-primary nav-dark">
+<nav class="navbar navbar-expand-sm bg-primary nav-dark">
     <ul class="navbar-nav">
         <li class="nav-item">
-            <a routerLink="employees" routerLinkActive="active" class="nav-link">Liste des Employés</a>
+            <a  style="color:white" routerLink="employees" routerLinkActive="active" class="nav-link">Liste des Employés</a>
+        </li>
+
+        <li class="nav-item">
+            <a  style="color:white" routerLink="create-employee" routerLinkActive="active" class="nav-link">Ajouter un Employee</a>
         </li>
 
     </ul>
 </nav>
+
 <div class="container">
     <router-outlet></router-outlet>
 </div>
 
 <footer class="footer">
     <div class="container">
-        <span>Tous Droit réservés 2022@Daniel10027</span>
+        <span>Tous Droit réservés 2022 @Daniel10027</span>
     </div>
 </footer>
